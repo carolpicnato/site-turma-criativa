@@ -1,8 +1,12 @@
 header {
-    background-color: #424E61;
-    color: rgb(255, 255, 255);
+    background-color: #ebe290;
+    color: rgb(214, 97, 189);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabeçalho-imagem{
-    width: 25%;
+    width: 20%;
 }
