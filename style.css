@@ -1,4 +1,13 @@
-header {
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cabecalho{
     background-color: #ebe290;
     color: rgb(214, 97, 189);
     display: flex;
@@ -6,7 +15,16 @@ header {
     align-items: center;
     padding: 24px 0;
 }
-
 .cabeçalho-imagem{
-    width: 20%;
+    width: 10%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0% 16px;
+    font-size:  24px;
+}
+
+.flores-imagem{
+    width: 25%;
 }
